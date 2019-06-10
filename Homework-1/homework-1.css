@@ -32,14 +32,15 @@ header {
   }
 
   .aside {
-    float: right;
+    float: left;
     width: 24%;
-    height: 130px;
+    height: 199px;
     padding: 21px;
-    margin-left: 30px;
+    margin-left: 503px;
     background: #ebebeb;
     border: 1px solid #eee;
     color: #333;
+    margin-top: -81px;
   }
 
   footer {
@@ -53,14 +54,15 @@ header {
     width: 44%;
     z-index: -1;
 }
-  .section {
-    background: #ebebeb;
-    width: 495px;
-    height: 51px;
-    background-color: #ebebeb;
-    text-align: center;
-    color: #333;
-    padding-top: 30px;
+.section {
+  background: #ebebeb;
+  width: 495px;
+  height: 51px;
+  background-color: #ebebeb;
+  text-align: center;
+  color: #333;
+  padding-top: 30px;
+  float: left;
 }
 
 .article {
